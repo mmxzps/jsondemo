@@ -1,0 +1,19 @@
+{
+  "user":"Aldor",
+  "projects":[
+    {
+      "name": "My first project",
+      "description":"Skapad 2023",
+      "progress": 85
+    },
+    {
+      "name": "My second project",
+      "description":"Skapad 2024",
+      "progress": 15
+    }
+  ],
+  "Arbete":[
+    {"workplace":"Chas Academy"},
+    {"workplace": "Qlok"}
+  ]
+}
