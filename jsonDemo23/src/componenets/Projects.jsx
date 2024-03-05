@@ -21,7 +21,7 @@ export default function Projects() {
                       <h3>Project name: {proj.name}</h3>
                       </Card.Header>
                     <p>{proj.description}</p>
-                    <ProgressBar striped variant="success" animated now={proj.progress} />;
+                    <ProgressBar striped variant="success" animated now={proj.progress} />
                   </article> 
                   </ListGroup.Item>
               </ListGroup>
